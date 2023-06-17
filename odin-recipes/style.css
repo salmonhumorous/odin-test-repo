@@ -1,3 +1,19 @@
-* {
+*:not(a){
     font-family: Verdana, Helvetica, Arial, sans-serif;
+    color: white;
 }
+
+body {
+    background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #FFCC66;
+}
+
+li {
+    margin-bottom: 1em;
+}
+
+
+
